@@ -6,4 +6,4 @@ template:
     success: "white"
     link-color: "#116074"
     link-hover-color: "#116074"
-    link-hover-decoration: "dotted underline"
+    link-hover-decoration: "underline dotted"
