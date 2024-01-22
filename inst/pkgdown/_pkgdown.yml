@@ -7,3 +7,27 @@ template:
     link-color: "#116074"
     link-hover-color: "#116074"
     link-hover-decoration: "underline dotted"
+
+authors:
+  cynkra:
+    href: https://www.cynkra.com
+    html: <img src='https://cynkra.com/assets/images/apple-touch-icon-76x76.png' alt='cynkra' width='72' />
+  RStudio:
+    href: https://www.rstudio.com
+    html: <img src='https://www.tidyverse.org/rstudio-logo.svg' alt='RStudio' width='72' />
+  Posit, PBC:
+    href: https://www.posit.co
+    html: >-
+      <img src='https://www.tidyverse.org/posit-logo.svg' alt='Posit' height='16' style="margin-bottom: 3px;" />
+  Posit Software, PBC:
+    href: https://www.posit.co
+    html: >-
+      <img src='https://www.tidyverse.org/posit-logo.svg' alt='Posit' height='16' style="margin-bottom: 3px;" />
+  Hadley Wickham:
+    href: https://hadley.nz
+  Kirill Müller:
+    href: https://cynkra.com/about/
+  Maëlle Salmon:
+    href: https://cynkra.com/about/
+  Nicolas Bennett:
+    href: https://github.com/nbenn
