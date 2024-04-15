@@ -1,4 +1,5 @@
 url: https://maelle.github.io/dbitemplate/
 template:
   package: dbitemplate
+  bootstrap: 5
 
