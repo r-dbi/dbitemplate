@@ -1,6 +1,6 @@
 template:
+  light-switch: true
   bootstrap: 5
-  bootswatch: flatly # https://bootswatch.com/flatly/
   bslib:
     danger: "#F8C9C4"
     success: "white"
