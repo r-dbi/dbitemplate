@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://maelle.github.io/dbitemplate/404.html</loc>
-  </url>
-  <url>
-    <loc>https://maelle.github.io/dbitemplate/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://maelle.github.io/dbitemplate/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://maelle.github.io/dbitemplate/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://maelle.github.io/dbitemplate/index.html</loc>
-  </url>
-  <url>
-    <loc>https://maelle.github.io/dbitemplate/reference/index.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://r-dbi.github.io/dbitemplate/404.html</loc></url>
+<url><loc>https://r-dbi.github.io/dbitemplate/LICENSE-text.html</loc></url>
+<url><loc>https://r-dbi.github.io/dbitemplate/LICENSE.html</loc></url>
+<url><loc>https://r-dbi.github.io/dbitemplate/authors.html</loc></url>
+<url><loc>https://r-dbi.github.io/dbitemplate/index.html</loc></url>
+<url><loc>https://r-dbi.github.io/dbitemplate/reference/index.html</loc></url>
 </urlset>
+
