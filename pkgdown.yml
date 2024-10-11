@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-10-11T09:07Z
+last_built: 2024-10-11T09:08Z
 urls:
   reference: https://r-dbi.github.io/dbitemplate/reference
   article: https://r-dbi.github.io/dbitemplate/articles
